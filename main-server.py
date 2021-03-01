@@ -2,7 +2,7 @@ import threading
 import socket
 
 #server connection info
-host = '192.168.1.30' #localhost
+host = ''#Ip required #localhost
 port = 1412 #port
 print(host)
 
